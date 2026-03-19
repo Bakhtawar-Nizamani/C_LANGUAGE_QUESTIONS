@@ -1,4 +1,4 @@
-Star & Pattern Problems 
+#Star & Pattern Problems 
 
 This folder contains important pattern-based problems in C. These problems are very useful for beginners to master loops, logic building, and nested structures.
 
