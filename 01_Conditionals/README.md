@@ -51,7 +51,7 @@ Here are the problems included in this repo:
 * Gained more confidence in writing C programs
 
 
-# Sample Output
+# Even & Odd
 
 ```
 Enter an integer number: 8
