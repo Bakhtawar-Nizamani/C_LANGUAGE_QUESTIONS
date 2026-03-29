@@ -47,7 +47,7 @@ These problems help in understanding how to use iteration effectively and build 
 * Practiced solving **number-based problems step by step**
 * Strengthened overall **problem-solving skills**
 
-# Sample Output
+# Factorial
 
 ```
 Please enter positive integer: 5
