@@ -29,17 +29,17 @@ Here are the problems included in this repo:
 
 ```
 01_Conditionals/
-│── even_odd.c
-│── positive_negative_zero.c
-│── largest_of_three.c
-│── leap_year.c
-│── divisible_by_5_and_11.c
-│── vowel_consonant.c
-│── grade_calculator.c
-│── prime_number.c
-│── palindrome.c
-│── electricity_bill.c
 │── README.md
+│── divisible.c
+│── electricity_bill.c
+│── even_odd.c
+│── grade.c
+│── largest.c
+│── leap_year.c
+│── palindrome.c
+│── pos_neg.c
+│── prime.c
+│── vowel_consonants.c
 ```
 
 
