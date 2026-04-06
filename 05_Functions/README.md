@@ -26,7 +26,7 @@ These problems focus on breaking code into smaller parts and improving **modular
 
 # Project Structure
 
-05_Functions/
+```05_Functions/
 │── README.md
 │── factorial_func.c
 │── factorial_recursive.c
